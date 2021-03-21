@@ -12,3 +12,5 @@ https://lifeinvaderr.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Matthew
+
+### ©️2019 Run Buddy, Inc
